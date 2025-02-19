@@ -1,5 +1,5 @@
 # AI编译器TVM code explain
-[toc]
+[TOC]
 # 总览
 
 以实现TVM向量加法为例
